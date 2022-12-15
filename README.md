@@ -14,3 +14,10 @@ $$\cos^{2}x+\sin^{2}x=1\$$
 $$f^\prime(c)=\frac{f(b)-f(a)}{b-a}$$
 
 ![lagrida_latex_editor (4)](https://user-images.githubusercontent.com/114642598/201021660-05635669-318a-4afa-9bfd-6e57de0d0c5e.png)
+
+flowchart LR
+
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
