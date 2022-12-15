@@ -19,8 +19,8 @@ $$f^\prime(c)=\frac{f(b)-f(a)}{b-a}$$
 
 flowchart LR
 
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+A[10 Класс] -->|Аттестация| B(11 Класс)
+B --> C{ЕГЭ}
+C -->|Хорошо| D[ГАЗПРОМ]
+C -->|Плохо| E[Юность в сапогах]
 ```
